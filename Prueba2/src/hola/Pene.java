@@ -10,5 +10,5 @@ package hola;
  * @author Usuario
  */
 public class Pene {
-        private String pn = "Pene negro";
+        private String pn = "Pene chino";
 }
